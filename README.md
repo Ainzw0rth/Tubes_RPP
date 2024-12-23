@@ -108,7 +108,7 @@ Menghapus aturan yang sudah pernah dibuat sebelumnya
 ![Screenshot 2024-12-24 013256](https://github.com/user-attachments/assets/0888775f-41a4-4104-bd41-9b06b0faf92c)
 
 ## Daftar Pencarian Fakta
-https://docs.google.com/document/d/1FNwP-FwSG37Ue8mFfyMNnkMGQiEJmw0RsWfdgw0QpCA/edit?tab=t.0
+[Docs Daftar Pencarian Fakta](https://docs.google.com/document/d/1FNwP-FwSG37Ue8mFfyMNnkMGQiEJmw0RsWfdgw0QpCA/edit?tab=t.0)
 <br> Sumber: berbagai website penyedia lowongan pekerjaan seperti Linkedin, Glints, Jobstreet, dsb.
 
 ## Acknowledgements
